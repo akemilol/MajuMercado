@@ -8,16 +8,37 @@
 .container{
     font-family: "Poppins", sans-serif;
     display: flex;
-    gap: 20%;
-    background-color: rgb(192, 92, 92);
+    gap: 100px;
+    margin: 10px;
+    background-color: rgb(116, 170, 241);
 }
 
 .logo{
     display: flex;
     color: #649A57;
+
     img{
         width: 30px;
     }
+}
+
+.search{
+
+    input{
+        margin-top: 2px;
+        width: 600px;
+        height: 40px;
+        outline: none;
+        border-radius: 6px;
+        border: black solid 2px;
+        text-indent: 30px;
+    }
+}
+
+input::placeholder{
+    font-family: "Poppins", sans-serif;
+    margin-left: 10px;
+    color: black;
 }
 
 
