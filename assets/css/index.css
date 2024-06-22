@@ -109,3 +109,23 @@ li:hover{
     margin-bottom: 15px;
 }
 /* nav */
+
+/* section */
+.conteudo-section{
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+.header-img{
+    border-radius: 6px;
+    margin-top: 20px;
+    height: 500px;
+    width: 100%;
+    background-image: url(/assets/img/header.png);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+}
+
+
+/* section */
