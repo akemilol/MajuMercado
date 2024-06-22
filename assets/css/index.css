@@ -58,6 +58,10 @@ input:hover{
         font-weight: bold;
         color: #80D07F;
     }
+
+    a:hover {
+        color: #8cad6d;
+    }
 }
 
 .locale{
@@ -67,7 +71,6 @@ input:hover{
     font-weight: bold;
     font-size: 18px;
 }
-
 
 .img-locale{
     width: 25px;
@@ -105,5 +108,4 @@ li:hover{
     font-weight: 600;
     margin-bottom: 15px;
 }
-
 /* nav */
