@@ -5,12 +5,9 @@
     padding: 0;
 }
 
-
 body{
     font-family: "Poppins", sans-serif;
 }
-
-
 
 /*header */
 .container{
@@ -152,7 +149,6 @@ li:hover{
 .cards-beneficio2 img{
     width: 20px;
 }
-
 
 .card1, .card2, .card3, .card3, .card4, .card5{
     text-align: center;
